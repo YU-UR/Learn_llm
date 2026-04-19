@@ -1,0 +1,12 @@
+pip
+setuptools
+wheel
+python 3.11
+pymilvus
+openai
+langchain
+langchain-community
+docx2txt
+tiktoken
+fastapi
+uvicorn
